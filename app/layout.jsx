@@ -8,7 +8,7 @@ import './globals.scss'
 const montserrat = Montserrat({ subsets: ['latin'], weight: ['200'] })
 
 export const metadata = {
-  title: 'Marcotel',
+  title: 'Hotel',
   description: 'Visit Puerto Paraíso and stay with us',
 }
 

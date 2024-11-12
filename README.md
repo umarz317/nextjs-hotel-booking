@@ -1,4 +1,4 @@
-# Marcotel - Hotel booking site
+# Hotel - Hotel booking site
 
 This site features Firebase Auth to create, authenticate, edit and delete users. You can book any of the offered suites and check the reservation details in your profile.
 &nbsp;

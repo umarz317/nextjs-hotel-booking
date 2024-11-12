@@ -5,12 +5,14 @@ import { getFirestore } from 'firebase/firestore'
 // Firebase configuration
 const firebaseConfig = {
   apiKey: process.env.NEXT_PUBLIC_FIREBASE_KEY,
-  authDomain: 'marcotel-6d7f8.firebaseapp.com',
-  projectId: 'marcotel-6d7f8',
-  storageBucket: 'marcotel-6d7f8.appspot.com',
-  messagingSenderId: '73207469002',
-  appId: '1:73207469002:web:ce4bed5b5e8ad77807f533'
-}
+  authDomain: "hotel-booking-6b881.firebaseapp.com",
+  projectId: "hotel-booking-6b881",
+  storageBucket: "hotel-booking-6b881.firebasestorage.app",
+  messagingSenderId: "968709699110",
+  appId: "1:968709699110:web:65c889199ab2c7238018e7",
+  measurementId: "G-8TJ928N4VV"
+};
+
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig)

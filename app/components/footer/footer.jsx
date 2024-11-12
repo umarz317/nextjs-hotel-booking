@@ -12,23 +12,23 @@ export default function Footer() {
         <div className='col-md-4 d-flex flex-column mt-1 text-center'>
           <p className='mb-0'>
             <a
-              href='https://github.com/alexiscirmi/nextjs-hotel-booking'
+              href='https://duolabz.com/'
               target='_blank'
               rel='noreferrer'
               className='nav-link-footer pe-1'
             >
-              Alexis Cirmi
+              Duo Labz
             </a>
             <CCircle className={styles.biCCircle} />
           </p>
-          <p className='m-0'>fantasy site</p>
+          <p className='m-0'></p>
         </div>
 
         <a
           href='#body'
           className={`${allison.className} col-md-4 d-flex justify-content-center text-decoration-none fs-1`}
         >
-          M
+          H
         </a>
       </Container>
     </footer>
