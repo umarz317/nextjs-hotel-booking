@@ -33,12 +33,12 @@ export default function Header() {
               <Link href="/gallery" className="nav-link px-2 link-light">
                 Gallery
               </Link>
-            </li>
+            </li>*/}
             <li className="nav-item">
               <Link href="/prices" className="nav-link px-2 link-light">
                 Prices
               </Link>
-            </li> */}
+            </li>
           </ul>
           <div className="col-md-4 text-center">
             <Link
