@@ -28,7 +28,7 @@ export default function Footer() {
           href='#body'
           className={`${allison.className} col-md-4 d-flex justify-content-center text-decoration-none fs-1`}
         >
-          H
+          Hotel Management
         </a>
       </Container>
     </footer>
